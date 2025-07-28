@@ -1,6 +1,3 @@
-Certainly. Here's a **professional, industry-standard `README.md`** version of your project without emojis or informal elements:
-
----
 
 # AI-Powered Healthcare Orchestration System
 
