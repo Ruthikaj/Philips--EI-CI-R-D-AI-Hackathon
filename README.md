@@ -1,6 +1,9 @@
 
 # AI-Powered Healthcare Orchestration System
 
+<img width="1107" height="852" alt="image" src="https://github.com/user-attachments/assets/c2cd6266-f73c-4434-b5a6-69ffa6222dac" />
+
+
 ## Overview
 
 India's healthcare system is often hampered by fragmented operations, delayed responses, and underutilized high-value assets. This leads to inefficiencies, increased mortality and morbidity rates, and poor patient experiences. To address these challenges, this solution introduces an AI-powered orchestration layer designed to deliver real-time coordination, efficient resource utilization, and patient-centric care delivery.
